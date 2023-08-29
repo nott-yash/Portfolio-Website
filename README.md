@@ -1,2 +1,2 @@
 # Portfolio-Website
-I build a Personal Portfolio Website using HTML, CSS , JAVA SCRIPT
+I built a Personal Portfolio Website using HTML, CSS , JAVA SCRIPT
